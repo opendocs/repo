@@ -1,7 +1,7 @@
 Open Docs
 =========
 This is an example repository that is rendered to
-https://opendocs.github.io/repo.
+https://opendocs.github.io/repo/.
 
 See https://opendocs.github.io/ for more details.
 
